@@ -1,2 +1,2 @@
 # PintijaJS
-Curry Cookbook
+Curry Recipes
